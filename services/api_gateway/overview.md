@@ -1,4 +1,4 @@
-# Google Cloud API Gateway 解説
+# API Gateway 解説
 
 Google Cloud API Gatewayは、Google Cloudのフルマネージドなサービスで、APIへのアクセスを一元的に管理、保護、監視することができます。API Gatewayを利用することで、バックエンドサービスの複雑さを隠蔽し、クライアントに対してシンプルで一貫性のあるAPIを提供できます。
 
